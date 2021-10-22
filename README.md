@@ -2,10 +2,8 @@
 
 Inspired by [the morning paper](https://blog.acolyer.org/about/) and the [D.L. paper repository]() I find it ver convenient to have a repository of papers at Github.
 
-<h2>Table of contents</h2>
-
 Table of contents
-=================
+-----------------
 
 <!--ts-->
   * [YOLO](#YOLO)
@@ -19,6 +17,7 @@ Table of contents
 
 YOLO
 ====
+
 YOLO.v2
 -------
 
@@ -30,8 +29,9 @@ YOLO.v3
 -------
 - further refined the model architecture and training process
 
-## YOLO.v4
+YOLO.v4
+-------
 
-## YOLO.v5
-
+YOLO.v5
+-------
 - implementation [link](https://github.com/ultralytics/yolov5)

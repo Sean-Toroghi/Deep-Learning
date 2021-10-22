@@ -28,6 +28,12 @@ YOLO.v2
 YOLO.v3
 -------
 - further refined the model architecture and training process
+- implementation [link](https://github.com/experiencor/keras-yolo3)
+- pre-trained weight [link](https://pjreddie.com/media/files/yolov3.weights)
+   - based on _DarkNet_ model architecture and loosly VGG-16.
+   - 
+
+
 
 YOLO.v4
 -------

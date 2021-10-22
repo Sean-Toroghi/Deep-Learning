@@ -7,11 +7,11 @@ Table of contents
 
 <!--ts-->
   * [YOLO](#YOLO)
-    * [YOLOv1](##YOLO.v2)
-    * [YOLOv2](#YOLO.v2)
-    * [YOLOv3](#YOLO.v3)
-    * [YOLO.v4](#YOLO.v4)
-    * [YOLO.v5](#YOLO.v5)
+    * [YOLO.v1](#YOLOv1)
+    * [YOLO.v2](#YOLOv2)
+    * [YOLO.v3](#YOLOv3)
+    * [YOLO.v4](#YOLOv4)
+    * [YOLO.v5](#YOLOv5)
 <!--te-->
 
 

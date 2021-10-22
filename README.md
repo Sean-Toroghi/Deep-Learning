@@ -5,12 +5,12 @@ Inspired by [the morning paper](https://blog.acolyer.org/about/) and the [D.L. p
 <h2>Table of contents</h2>
 
 <!--ts-->
-  * [YOLO](# YOLO)
-    * [YOLOv1](# YOLO.v2)
-    * [YOLOv2](# YOLO.v2)
-    * [YOLOv3](# YOLO.v3)
-    * [YOLO.v4](# YOLO.v4)
-    * [YOLO.v5](# YOLO.v5)
+  * [YOLO](#YOLO)
+    * [YOLOv1](##YOLO.v2)
+    * [YOLOv2](#YOLO.v2)
+    * [YOLOv3](#YOLO.v3)
+    * [YOLO.v4](#YOLO.v4)
+    * [YOLO.v5](#YOLO.v5)
 <!--te-->
 
 

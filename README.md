@@ -3,12 +3,15 @@
 Inspired by [the morning paper](https://blog.acolyer.org/about/) and the [D.L. paper repository]() I find it ver convenient to have a repository of papers at Github.
 
 <h2>Table of contents</h2>
-* YOLO
-  * [YOLOv1](#yolo1)
-  * [YOLOv2](# YOLO.v2)
-  * [YOLOv3](# YOLO.v3)
-  * [YOLO.v4](# YOLO.v4)
-  * [YOLO.v5](# YOLO.v5)
+
+<!--ts-->
+  * YOLO
+    * [YOLOv1](#yolo1)
+    * [YOLOv2](# YOLO.v2)
+    * [YOLOv3](# YOLO.v3)
+    * [YOLO.v4](# YOLO.v4)
+    * [YOLO.v5](# YOLO.v5)
+<!--te-->
 
 
 # Yolo

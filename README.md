@@ -5,8 +5,8 @@ Inspired by [the morning paper](https://blog.acolyer.org/about/) and the [D.L. p
 <h2>Table of contents</h2>
 
 <!--ts-->
-  * YOLO
-    * [YOLOv1](#yolo1)
+  * [YOLO](# YOLO)
+    * [YOLOv1](# YOLO.v2)
     * [YOLOv2](# YOLO.v2)
     * [YOLOv3](# YOLO.v3)
     * [YOLO.v4](# YOLO.v4)
@@ -14,7 +14,7 @@ Inspired by [the morning paper](https://blog.acolyer.org/about/) and the [D.L. p
 <!--te-->
 
 
-# Yolo
+# YOLO
 ## YOLO.v2
 
 -  refined the design and made use of predefined anchor boxes to improve bounding box proposal

@@ -31,7 +31,7 @@ YOLO.v3
 - implementation [link](https://github.com/experiencor/keras-yolo3)
 - pre-trained weight [link](https://pjreddie.com/media/files/yolov3.weights)
    - based on _DarkNet_ model architecture and loosly VGG-16.
-   - 
+- create the model via `function _conv_block()`: [Python script](https://raw.githubusercontent.com/experiencor/keras-yolo3/master/yolo3_one_file_to_detect_them_all.py)
 
 
 

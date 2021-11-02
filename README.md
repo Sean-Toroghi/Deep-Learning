@@ -19,7 +19,7 @@ Table of contents
 
 <h3>Sequence modeling</h3>
 
-* [Keras TNC: "An Empirical Evaluation of Generic Convolutional and Recurrent Networks for Sequence Modeling".](#kerastnc)
+* [Keras TNC: "An Empirical Evaluation of Generic Convolutional and Recurrent Networks for Sequence Modeling".](#KerasTNC)
 
 
 <h2>Computer vision</h2>

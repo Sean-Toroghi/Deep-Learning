@@ -66,6 +66,7 @@ Keras TNC
 
 [Paper link](https://arxiv.org/pdf/1803.01271.pdf)
 
+[Implementation](https://github.com/philipperemy/keras-tcn)
 
 
 

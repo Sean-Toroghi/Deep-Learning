@@ -6,6 +6,8 @@ Table of contents
 -----------------
 
 <h3>Computer vision</h3>
+
+
 <!--ts-->
   * [YOLO](#YOLO)
     * [YOLO.v1](#YOLOv1)
@@ -17,13 +19,13 @@ Table of contents
 
 <h3>Sequence modeling</h3>
 
-* [Keras TNC: "An Empirical Evaluation of Generic Convolutional and Recurrent Networks for Sequence Modeling".](https://arxiv.org/pdf/1803.01271.pdf)
+* [Keras TNC: "An Empirical Evaluation of Generic Convolutional and Recurrent Networks for Sequence Modeling".](#kerastnc)
 
 
 <h2>Computer vision</h2>
 
-YOLO
-====
+YOLO.v1
+----
 
 YOLO.v2
 -------
@@ -58,8 +60,10 @@ YOLO.v5
 
 <h2>Sequence modeling</h2>
 
-Keras TNC - "An Empirical Evaluation of Generic Convolutional and Recurrent Networks for Sequence Modeling".
+Keras TNC
 -------
+"An Empirical Evaluation of Generic Convolutional and Recurrent Networks for Sequence Modeling". 
+
 [Paper link](https://arxiv.org/pdf/1803.01271.pdf)
 
 
